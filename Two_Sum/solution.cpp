@@ -1,3 +1,8 @@
+/*
+    Runtime: 8 ms, faster than 99.53% of C++ online submissions for Two Sum.
+    Memory Usage: 10.6 MB, less than 11.56% of C++ online submissions for Two Sum.
+*/
+
 #include <unordered_map>
 #include <iostream>
 #include <vector>
