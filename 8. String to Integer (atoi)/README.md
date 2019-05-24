@@ -48,3 +48,6 @@ Output: -2147483648
 Explanation: The number "-91283472332" is out of the range of a 32-bit signed integer.
              Thefore INT_MIN (−231) is returned.
 ```
+
+![sfe](https://raw.githubusercontent.com/slgero/Leetcode_tasks/master/8.%20String%20to%20Integer%20(atoi)/max.png)
+![sfe](https://raw.githubusercontent.com/slgero/Leetcode_tasks/master/8.%20String%20to%20Integer%20(atoi)/max2.png)
